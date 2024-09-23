@@ -2,7 +2,7 @@
 
 ## Iniciando o projeto 
 
-para iniciar o projeto clone o repositorio em sua máquina local, navegue até /mtd-teste e rode o comando **npm start**
+para iniciar o projeto clone o repositorio em sua máquina local, navegue até /mtd-teste e rode o comando **npm install** e depois **npm start**
 
 após isso a aplicação poderá ser vista em [http://localhost:3000](http://localhost:3000)
 
