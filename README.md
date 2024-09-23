@@ -12,7 +12,7 @@ para ter uma versão mais otimizada do projeto rode o comando **npm run build**
 
 ## Testes unitários
 
-Fora implementados alguns testes unitários para a aplicação escritos em Jest, framework Javascript para teste, para ver os resultados basta roda **npm run test**
+Foram implementados alguns testes unitários para a aplicação escritos em Jest, framework Javascript para teste, para ver os resultados basta roda **npm run test**
 
 ### Técnologias
 
